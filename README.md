@@ -1,18 +1,17 @@
 # Tasks 
 
 - create EC2 instance
-assign 
 
 - ssh-key -> first-key
-assign this key to the ec2 instance
+-assign this key to the ec2 instance
 
 - Create Security group
-assign the security group to ec2 instance
+-assign the security group to ec2 instance
 
-managing the diif ENV
+- Managing the diff ENV's
 
--Dev
--Stage
+- Dev
+- Stage
 
 - Write a script to install & update nginx!
 
