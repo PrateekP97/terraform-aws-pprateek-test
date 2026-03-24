@@ -2,16 +2,21 @@
 
 - create EC2 instance
 
-- ssh-key -> first-key
+- ssh-key -> ed25519
+```
 -assign this key to the ec2 instance
+```
 
 - Create Security group
+```
 -assign the security group to ec2 instance
+```
 
 - Managing the diff ENV's
-
+```
 - Dev
 - Stage
+```
 
 - Write a script to install & update nginx!
 
