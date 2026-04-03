@@ -4,12 +4,13 @@
 
 - ssh-key -> ed25519
 ```
--assign this key to the ec2 instance
+- Run : ssh-keygen -t rsa
+- assign this key to the ec2 instance
 ```
 
 - Create Security group
 ```
--assign the security group to ec2 instance
+- assign the security group to ec2 instance
 ```
 
 - Managing the diff ENV's
