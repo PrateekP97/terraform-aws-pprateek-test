@@ -2,9 +2,7 @@
 
 - create EC2 instance
 
-- ssh-key -> ed25519
-```
-- Run this to generate key 
+- Run this to generate key - ssh-key -> rsa
 ```
 ssh-keygen -t rsa
 ```
