@@ -23,6 +23,7 @@ ssh-keygen -t rsa
 - Write a script to install & update nginx!
 
 ```
+
 #!/bin/bash
 sudo apt update -y
 sudo apt install nginx -y
