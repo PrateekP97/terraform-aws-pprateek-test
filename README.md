@@ -4,7 +4,10 @@
 
 - ssh-key -> ed25519
 ```
-- Run : ssh-keygen -t rsa
+- Run this to generate key 
+```
+ssh-keygen -t rsa
+```
 - assign this key to the ec2 instance
 ```
 
